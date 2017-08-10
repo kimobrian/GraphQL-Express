@@ -23,7 +23,7 @@ npm install nodemon -g # Alternatively yarn global add nodemon
 
 ```
 
-Navigate to [localhost](http://localhost:7700) to experiment with different queries.
+Navigate to [localhost](http://localhost:7700/graphiql) to experiment with different queries.
 
 You can explore [npx](https://medium.com/@maybekatz/introducing-npx-an-npm-package-runner-55f7d4bd282b) to avoid global installation of modules.
 
