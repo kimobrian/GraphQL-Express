@@ -14,7 +14,7 @@ export const resolvers = {
       return channels;
     },
     channel: (root, { id }) => {
-      return channels.find(channel => channel.id === id);
+      return channels.find(channel => channel.id == id);
     },
   },
   Mutation: {
