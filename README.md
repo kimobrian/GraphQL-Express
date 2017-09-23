@@ -2,9 +2,9 @@
 An simple Express Server implemented using GraphQL and Apollo.
 This repo is attached to a series of articles with detailed explanations of the implementations:
 
-Pert 1: [Implementing GraphQL using APollo on an Express Server](https://scotch.io/tutorials/implementing-graphql-using-apollo-on-an-express-server) - Use the `master` branch.
+Part 1: [Implementing GraphQL using APollo on an Express Server](https://scotch.io/tutorials/implementing-graphql-using-apollo-on-an-express-server) - Use the `master` branch.
 
-Pert 2: Creating GraphQL Subscriptions in Express. (Pending Publication) - - Use the `Subscriptions` branch.
+Part 2: Creating GraphQL Subscriptions in Express. (Pending Publication) - Use the `subscriptions` branch.
 
 The repo is also linked to another [GraphQL-React-Apollo](https://github.com/kimobrian/GraphQL-React-Apollo) with front end implementations ing React using Apollo with corresponding articles.
 ## Setup and Installation.
@@ -29,6 +29,6 @@ npm install nodemon -g # Alternatively yarn global add nodemon
 
 ```
 
-Navigate to [localhost](http://localhost:7700) to experiment with different queries.
+Navigate to [localhost](http://localhost:7700/graphiql) to experiment with different queries.
 
 You can explore [npx](https://medium.com/@maybekatz/introducing-npx-an-npm-package-runner-55f7d4bd282b) to avoid global installation of modules.
