@@ -4,7 +4,7 @@ This repo is attached to a series of articles with detailed explanations of the 
 
 Part 1: [Implementing GraphQL using APollo on an Express Server](https://scotch.io/tutorials/implementing-graphql-using-apollo-on-an-express-server) - Use the `master` branch.
 
-Part 2: Creating GraphQL Subscriptions in Express. (Pending Publication) - Use the `subscriptions` branch.
+Part 2: Creating GraphQL Subscriptions in Express. (https://scotch.io/bar-talk/creating-graphql-subscriptions-in-express) - Use the `subscriptions` branch.
 
 The repo is also linked to another [GraphQL-React-Apollo](https://github.com/kimobrian/GraphQL-React-Apollo) with front end implementations ing React using Apollo with corresponding articles.
 ## Setup and Installation.
