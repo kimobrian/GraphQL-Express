@@ -9,6 +9,8 @@ Part 2: [Creating GraphQL Subscriptions in Express](https://scotch.io/bar-talk/c
 The repo is also linked to another [GraphQL-React-Apollo](https://github.com/kimobrian/GraphQL-React-Apollo) with front end implementations ing React using Apollo with corresponding articles.
 ## Setup and Installation.
 
+> Note: Configure the port on the client code to match the CORs origin on this [line](https://github.com/kimobrian/GraphQL-Express/blob/f0ba47db3ae95c5b5f586f2870fa3e2c7cdb61cf/server.js#L13).
+
 ```sh
 git clone git@github.com:kimobrian/GraphQL-Express.git  #for SSH
 
